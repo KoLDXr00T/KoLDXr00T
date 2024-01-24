@@ -1,6 +1,6 @@
-- 👋 This is @KoLDXr00T .
-- 👀 interested in assembly ... 
-- 🌱 currently learning ...
+b_d 👋 This is @KoLDXr00T .
+
+- always learning ...
 
 
 <!---
